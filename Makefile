@@ -4,8 +4,8 @@
 ## VARIABLES ##
 ###############
 compose=docker-compose
-version=4.2
-image=ypereirareis/docker-satis
+version=1.0
+image=zigweb/docker-satis
 
 #############
 ## Targets ##
