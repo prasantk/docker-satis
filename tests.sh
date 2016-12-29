@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-IMAGE_NAME="ypereirareis/docker-satis"
+IMAGE_NAME="prasantk/docker-satis"
 VERSION="4.2"
 
 function build() {
