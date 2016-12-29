@@ -5,7 +5,7 @@
 ###############
 compose=docker-compose
 version=1.0
-image=zigweb/docker-satis
+image=prasantk/docker-satis
 
 #############
 ## Targets ##
